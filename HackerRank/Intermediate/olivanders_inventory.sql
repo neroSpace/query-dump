@@ -15,11 +15,6 @@ WITH ranking_wand AS(
     ORDER BY 4 DESC, 2 DESC
 )
 SELECT
-    id,/*
-Enter your query here.
-Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
-*/
-SELECT
     DISTINCT
     h.hacker_id,
     h.name,

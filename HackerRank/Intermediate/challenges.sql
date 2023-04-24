@@ -1,6 +1,3 @@
-/*
-Enter your query here.
-*/
 WITH rank_hackers AS(
     SELECT
         h.hacker_id,
