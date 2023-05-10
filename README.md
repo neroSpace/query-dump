@@ -1,6 +1,6 @@
 # Query Dump
 
-This repository contains solutions to SQL problems from HackerRank and DataLemur. The purpose of this repository is to provide a collection of SQL queries that can be used for reference or inspiration when working on similar problems.
+This repository contains solutions to SQL problems from HackerRank, DataLemur, and SQL Pad. The purpose of this repository is to provide a collection of SQL queries that can be used for reference or inspiration when working on similar problems.
 
 ## Contributing
 
